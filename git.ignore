@@ -1,0 +1,7 @@
+*.war
+*.zip
+*.zip
+
+配置文件添加进git的方式：
+[core]
+    excludesfile=C:/users/git.ignore
