@@ -1,0 +1,1 @@
+print(f"i love luoyi")
